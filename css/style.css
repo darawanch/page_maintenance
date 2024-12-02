@@ -1,3 +1,16 @@
+@font-face {
+    font-family: 'DB Heavent';
+    src: url('../fonts/DBHeavent-Med.eot');
+    src: url('../fonts/DBHeavent-Med.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/DBHeavent-Med.woff2') format('woff2'),
+        url('../fonts/DBHeavent-Med.woff') format('woff'),
+        url('../fonts/DBHeavent-Med.ttf') format('truetype'),
+        url('../fonts/DBHeavent-Med.svg#DBHeavent-Med') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
 body {
 	font-family: "DB Heavent";
 }
