@@ -20,6 +20,7 @@
 .page_maintenance p{
 	font-size: 24px;
 	font-weight: 500;
+	margin-bottom: 38px;
 }
 .page_maintenance p.apologize{
 	font-size: 20px;
